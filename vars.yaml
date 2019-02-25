@@ -1,0 +1,6 @@
+---
+cadvisor:
+  version: 0.32.0
+  ram: 256
+  cpu: 50
+  port: 4057
